@@ -7,4 +7,4 @@
 5. Code will run and take backup
 6. Will creat file name matching to device hostname
 
-Base code is in SSH_to_device_main_code.py
+Source code is in SSH_to_device_main_code.py
